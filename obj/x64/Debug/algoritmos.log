@@ -1,0 +1,13 @@
+﻿  Validando fontes
+  Copiando fontes remotamente para 'localhost'
+  Validando a arquitetura
+  Validando a arquitetura
+  Iniciando o build remoto
+  Compilando fontes:
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Application Type\Linux\1.0\Linux.targets(437,5): error : Não foi possível criar diretórios, código de saída do mkdir: 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Application Type\Linux\1.0\Linux.targets(437,5): error :    em liblinux.IO.RemoteFileSystemImpl.CreateDirectories(String remotePath)
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Application Type\Linux\1.0\Linux.targets(437,5): error :    em Microsoft.Build.Linux.Tasks.Compile.ExecuteTool()
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Application Type\Linux\1.0\Linux.targets(437,5): error : Não foi possível criar diretórios, código de saída do mkdir: 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Application Type\Linux\1.0\Linux.targets(437,5): error :    em liblinux.IO.RemoteFileSystemImpl.CreateDirectories(String remotePath)
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Application Type\Linux\1.0\Linux.targets(437,5): error :    em Microsoft.Build.Linux.Tasks.Compile.ExecuteTool()
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Application Type\Linux\1.0\Linux.targets(437,5): error :    em Microsoft.Build.Linux.Tasks.RemoteToolTask.Execute()
